@@ -1,0 +1,16 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: paty-flores-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: paty
+      POSTGRES_PASSWORD: paty_dev
+      POSTGRES_DB: paty_flores
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:

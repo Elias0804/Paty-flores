@@ -1,0 +1,136 @@
+<svg width="1200" height="1000" viewBox="0 0 1200 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="22" stdDeviation="18" flood-color="#3d2a1d" flood-opacity="0.18"/>
+    </filter>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="10" flood-color="#3d2a1d" flood-opacity="0.14"/>
+    </filter>
+  </defs>
+
+  <g filter="url(#shadow)">
+    <g opacity="0.95">
+      <circle cx="205" cy="205" r="56" fill="#F4D34B"/>
+      <circle cx="325" cy="130" r="46" fill="#F4D34B"/>
+      <circle cx="925" cy="190" r="62" fill="#F4D34B"/>
+      <circle cx="1035" cy="325" r="48" fill="#F4D34B"/>
+      <circle cx="930" cy="825" r="58" fill="#F4D34B"/>
+      <circle cx="290" cy="865" r="52" fill="#F4D34B"/>
+      <circle cx="150" cy="710" r="42" fill="#F4D34B"/>
+      <circle cx="465" cy="75" r="52" fill="#F4D34B"/>
+      <circle cx="1035" cy="640" r="44" fill="#F4D34B"/>
+    </g>
+
+    <circle cx="600" cy="500" r="390" fill="#F7F7F4" stroke="#F3D743" stroke-width="28"/>
+    <circle cx="600" cy="500" r="315" fill="#F1D334"/>
+
+    <g opacity="0.95" transform="translate(0,15)">
+      <path d="M435 680C435 640 470 610 510 610H560C590 610 612 632 612 664C612 695 590 718 560 718H510C470 718 435 688 435 680Z" fill="#F9D653" opacity="0.25"/>
+    </g>
+
+    <g transform="translate(0,10)" filter="url(#softShadow)">
+      <path d="M465 642V358C465 332 486 310 512 310H575C664 310 724 374 724 450C724 531 663 600 582 600H536V642H465ZM536 548H575C616 548 646 518 646 478C646 438 616 408 575 408H536V548Z" fill="#1E1717"/>
+    </g>
+
+    <g transform="translate(0,0)" fill="#1B1617" font-family="'Segoe Print', 'Bradley Hand', cursive" font-size="150" font-weight="700" letter-spacing="-8" text-anchor="middle">
+      <text x="600" y="776" font-style="italic">Paty Flores</text>
+    </g>
+
+    <g opacity="0.96" transform="translate(0,0)">
+      <g transform="translate(120 170) rotate(-12 0 0)">
+        <g fill="#F4D447" stroke="#A9821E" stroke-width="4">
+          <circle cx="0" cy="0" r="42"/>
+          <ellipse cx="0" cy="-62" rx="18" ry="44"/>
+          <ellipse cx="62" cy="0" rx="18" ry="44" transform="rotate(90 0 0)"/>
+          <ellipse cx="-62" cy="0" rx="18" ry="44" transform="rotate(90 0 0)"/>
+          <ellipse cx="0" cy="62" rx="18" ry="44"/>
+          <ellipse cx="44" cy="-44" rx="17" ry="42" transform="rotate(45 0 0)"/>
+          <ellipse cx="44" cy="44" rx="17" ry="42" transform="rotate(45 0 0)"/>
+          <ellipse cx="-44" cy="44" rx="17" ry="42" transform="rotate(-45 0 0)"/>
+          <ellipse cx="-44" cy="-44" rx="17" ry="42" transform="rotate(-45 0 0)"/>
+        </g>
+      </g>
+
+      <g transform="translate(1030 190) rotate(18 0 0)">
+        <g fill="#F4D447" stroke="#A9821E" stroke-width="4">
+          <circle cx="0" cy="0" r="42"/>
+          <ellipse cx="0" cy="-62" rx="18" ry="44"/>
+          <ellipse cx="62" cy="0" rx="18" ry="44" transform="rotate(90 0 0)"/>
+          <ellipse cx="-62" cy="0" rx="18" ry="44" transform="rotate(90 0 0)"/>
+          <ellipse cx="0" cy="62" rx="18" ry="44"/>
+          <ellipse cx="44" cy="-44" rx="17" ry="42" transform="rotate(45 0 0)"/>
+          <ellipse cx="44" cy="44" rx="17" ry="42" transform="rotate(45 0 0)"/>
+          <ellipse cx="-44" cy="44" rx="17" ry="42" transform="rotate(-45 0 0)"/>
+          <ellipse cx="-44" cy="-44" rx="17" ry="42" transform="rotate(-45 0 0)"/>
+        </g>
+      </g>
+
+      <g transform="translate(990 780) rotate(-10 0 0)">
+        <g fill="#F4D447" stroke="#A9821E" stroke-width="4">
+          <circle cx="0" cy="0" r="38"/>
+          <ellipse cx="0" cy="-58" rx="17" ry="40"/>
+          <ellipse cx="58" cy="0" rx="17" ry="40" transform="rotate(90 0 0)"/>
+          <ellipse cx="-58" cy="0" rx="17" ry="40" transform="rotate(90 0 0)"/>
+          <ellipse cx="0" cy="58" rx="17" ry="40"/>
+          <ellipse cx="42" cy="-42" rx="16" ry="38" transform="rotate(45 0 0)"/>
+          <ellipse cx="42" cy="42" rx="16" ry="38" transform="rotate(45 0 0)"/>
+          <ellipse cx="-42" cy="42" rx="16" ry="38" transform="rotate(-45 0 0)"/>
+          <ellipse cx="-42" cy="-42" rx="16" ry="38" transform="rotate(-45 0 0)"/>
+        </g>
+      </g>
+
+      <g transform="translate(220 730) rotate(8 0 0)">
+        <g fill="#F4D447" stroke="#A9821E" stroke-width="4">
+          <circle cx="0" cy="0" r="34"/>
+          <ellipse cx="0" cy="-52" rx="15" ry="36"/>
+          <ellipse cx="52" cy="0" rx="15" ry="36" transform="rotate(90 0 0)"/>
+          <ellipse cx="-52" cy="0" rx="15" ry="36" transform="rotate(90 0 0)"/>
+          <ellipse cx="0" cy="52" rx="15" ry="36"/>
+          <ellipse cx="36" cy="-36" rx="14" ry="32" transform="rotate(45 0 0)"/>
+          <ellipse cx="36" cy="36" rx="14" ry="32" transform="rotate(45 0 0)"/>
+          <ellipse cx="-36" cy="36" rx="14" ry="32" transform="rotate(-45 0 0)"/>
+          <ellipse cx="-36" cy="-36" rx="14" ry="32" transform="rotate(-45 0 0)"/>
+        </g>
+      </g>
+
+      <g transform="translate(835 350) rotate(10 0 0)">
+        <g fill="#F4D447" stroke="#A9821E" stroke-width="4">
+          <circle cx="0" cy="0" r="34"/>
+          <ellipse cx="0" cy="-52" rx="15" ry="36"/>
+          <ellipse cx="52" cy="0" rx="15" ry="36" transform="rotate(90 0 0)"/>
+          <ellipse cx="-52" cy="0" rx="15" ry="36" transform="rotate(90 0 0)"/>
+          <ellipse cx="0" cy="52" rx="15" ry="36"/>
+          <ellipse cx="36" cy="-36" rx="14" ry="32" transform="rotate(45 0 0)"/>
+          <ellipse cx="36" cy="36" rx="14" ry="32" transform="rotate(45 0 0)"/>
+          <ellipse cx="-36" cy="36" rx="14" ry="32" transform="rotate(-45 0 0)"/>
+          <ellipse cx="-36" cy="-36" rx="14" ry="32" transform="rotate(-45 0 0)"/>
+        </g>
+      </g>
+    </g>
+
+    <g opacity="0.9" stroke="#4D7F2A" stroke-width="7" stroke-linecap="round">
+      <path d="M198 650C240 600 260 560 255 520"/>
+      <path d="M903 645C860 595 846 560 850 515"/>
+      <path d="M210 230C250 270 275 310 285 355"/>
+      <path d="M980 244C945 286 922 322 915 360"/>
+      <path d="M1020 675C980 720 958 760 960 802"/>
+      <path d="M217 705C252 742 278 777 281 818"/>
+    </g>
+
+    <g opacity="0.9" fill="#5B8E2A">
+      <ellipse cx="140" cy="708" rx="36" ry="18" transform="rotate(-14 140 708)"/>
+      <ellipse cx="138" cy="729" rx="30" ry="15" transform="rotate(18 138 729)"/>
+      <ellipse cx="122" cy="690" rx="24" ry="12" transform="rotate(-30 122 690)"/>
+      <ellipse cx="155" cy="685" rx="22" ry="10" transform="rotate(30 155 685)"/>
+
+      <ellipse cx="1010" cy="680" rx="36" ry="18" transform="rotate(12 1010 680)"/>
+      <ellipse cx="1028" cy="705" rx="30" ry="15" transform="rotate(-16 1028 705)"/>
+      <ellipse cx="995" cy="703" rx="24" ry="12" transform="rotate(22 995 703)"/>
+      <ellipse cx="1036" cy="657" rx="22" ry="10" transform="rotate(-34 1036 657)"/>
+    </g>
+
+    <g filter="url(#softShadow)">
+      <path d="M262 772C388 628 524 555 600 555C674 555 838 624 962 772L900 864C761 737 685 700 600 700C511 700 434 737 300 860L262 772Z" fill="#E7C14C" opacity="0.38"/>
+    </g>
+  </g>
+</svg>
